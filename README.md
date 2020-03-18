@@ -16,6 +16,7 @@ Plength was written with Python 3.5.2. (installed using Anaconda 2.4.1). To use 
 - SciPy 1.0
 - numba 0.37.0
 - sknw last updated on Oct 25, 2017 (https://github.com/yxdragon/sknw)
+
 Once the libraries has been installed, simply download the file "PLENGTH.py" and run the script.
 
 ### Input specifications
@@ -26,6 +27,7 @@ For optimum performance, the following conditions are recommended:
 - No overlapping plants
 - The scale bar is a white strip of known length placed on either the lower right or left corner of the plate
 - No plant is in the same grid box as the scale bar (~3cm for gridless plates)
+
 Sample input files can be downloaded in the folder "sample-input/"
 
 ### Steps
@@ -46,7 +48,7 @@ Changing scale bar position and increasing minimum detection area to remove nois
 5. Run the program. Each detected region will be labeled with a red bounding box and a number. In case of seedlings, yellow lines are drawn over the branch determined to be a leaf. This could be incorrect if the leaf is too close to the main stem.
 <img src="readme-img/gui9.PNG" width="500" />
 
-6. Merge, remove, select, or group regions as necessary. The labeled image can be exported to see the numberings more clearly.The mean, standard deviation, and standard error will be recalculated for each parameter.
+6. Merge, remove, select, or group regions as necessary. The labeled image can be exported to see the numberings more clearly. The mean, standard deviation, and standard error will be recalculated for each parameter.
 
 7. Export to a csv file.
 
