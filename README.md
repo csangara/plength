@@ -4,7 +4,7 @@
 Plength has been developed during my Bachelor's thesis in 2018. It is essentially a self-contained script which also includes a GUI. The program measures the total length, leaf lengths and internode length of rice seedlings. Here is what you will see after a successful analysis.
 
 <img src="readme-img/gui11.PNG" width="500" />
-It is also possible to measure coleoptiles, and functionalities like grouping and merging measurements are also possible (see further).
+It is also possible to measure coleoptiles, and functionalities like grouping and merging measurements also exist (see further).
 
 ### How to install
 
