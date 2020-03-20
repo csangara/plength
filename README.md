@@ -17,7 +17,7 @@ Plength was written with Python 3.5.2. (installed using Anaconda 2.4.1). To use 
 - numba 0.37.0
 - sknw last updated on Oct 25, 2017 (https://github.com/yxdragon/sknw)
 
-Once the libraries have been installed, simply download the file "PLENGTH.py" and run the script.
+This information can also be found in the requirements.txt file. For more detailed installation steps, please refer to the "Plength Installation Guide.pdf." Once the libraries have been installed, simply download the file "PLENGTH.py" and run the script.
 
 ### Input specifications
 For optimum performance, the following conditions are recommended:
