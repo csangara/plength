@@ -20,5 +20,6 @@ setup(name='Plength',
 			'networkx==1.11',
 			'numba==0.38.0',
 			'Pillow==6.2.0',
-            'sknw @ git+ssh://git@github.com/csangara/sknw@6594d8a953ecd8d4f961821b843b47a40391bb1b#egg=sknw'],
+            'sknw==0.11'],
+      dependency_links=['http://github.com/csangara/sknw/tarball/6594d8a953ecd8d4f961821b843b47a40391bb1b#egg=sknw'],
 packages=find_packages())
