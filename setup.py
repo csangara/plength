@@ -19,7 +19,7 @@ setup(name='Plength',
 			'matplotlib==1.5.0',
 			'networkx==1.11',
 			'numba==0.37.0',
-			'Pillow==4.0.0',
+			'Pillow==9.0.1',
             'sknw==0.12'],
       dependency_links=['http://github.com/csangara/sknw/tarball/6594d8a953ecd8d4f961821b843b47a40391bb1b#egg=sknw'],
 packages=find_packages())

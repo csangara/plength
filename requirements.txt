@@ -3,7 +3,7 @@ networkx==1.11
 numba==0.37.0
 numpy==1.14.1
 opencv-python==3.4.2.16
-Pillow==6.2.0
+Pillow==9.0.1
 scikit-image==0.13.1
 scipy==1.0.0
 git+git://github.com/csangara/sknw@6594d8a953ecd8d4f961821b843b47a40391bb1b#egg=sknw
